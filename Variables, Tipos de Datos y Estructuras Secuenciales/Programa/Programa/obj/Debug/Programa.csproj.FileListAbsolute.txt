@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Programa\Programa\bin\Debug\Programa.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Programa\Programa\bin\Debug\Programa.exe
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Programa\Programa\bin\Debug\Programa.pdb
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Programa\Programa\obj\Debug\Programa.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Programa\Programa\obj\Debug\Programa.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Programa\Programa\obj\Debug\Programa.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Programa\Programa\obj\Debug\Programa.exe
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Programa\Programa\obj\Debug\Programa.pdb
