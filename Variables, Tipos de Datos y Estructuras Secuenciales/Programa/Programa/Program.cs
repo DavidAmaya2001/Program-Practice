@@ -43,6 +43,32 @@ namespace Programa
             Console.WriteLine("La suma entre el entero " + valor1 + " y el decimal " + valor3 + " es: " + sumadecimal);
             Console.WriteLine("Residuo entre " + valor2 + " y " + valor1 + " es: " + residuo);
 
+            // ------------------- Operciones Basicas con Cadena ------------------- //
+
+            string cad1 = "ABC";
+            string cad2 = "DEF";
+            int numero = 20;
+
+            string SumaCadena = cad1 + cad2;         // Se juntan ambos datos
+            string SumaNumero = cad1 + numero;       // Se junta el dato y el numero
+            Console.WriteLine(SumaCadena);
+            Console.WriteLine(SumaNumero);
+
+            // -------------------- Conversión de Tipo de Dato --------------------- //
+
+            string Numero = "20";
+            string Resultado = Numero + 10;          // Tipo String y  un numero se juntan
+
+            int NumeroConv = int.Parse(Numero);      // Conversion de String a Int
+            int ResultadoConv = NumeroConv + 10;     // Tipo numero y numero se suman
+
+            Console.WriteLine(ResultadoConv);
+
+            int aa = 30;
+            string Cadena = aa.ToString();           // Conversion de Int a String
+            Console.WriteLine(Cadena);
+
+            
 
             Console.ReadKey();
         }

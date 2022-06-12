@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
