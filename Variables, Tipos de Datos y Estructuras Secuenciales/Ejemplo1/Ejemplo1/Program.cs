@@ -36,6 +36,15 @@ namespace Ejemplo1
                     break;
 
                 case 3: Console.WriteLine("----------Ejercicio Comercial----------");
+                    Console.WriteLine("Ingrese el precio");
+                    decimal Precio = decimal.Parse(Console.ReadLine());
+                    decimal descuento = Precio * 0.20m;
+                    decimal total = Precio - descuento;
+                    Console.WriteLine("El descuento es de: " + descuento);
+                    Console.WriteLine("El total con descuento es de: " + total);
+                    break;
+
+                default: Console.WriteLine("Error");
                     break;
             }
             Console.ReadKey();

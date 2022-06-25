@@ -68,7 +68,74 @@ namespace Programa
             string Cadena = aa.ToString();           // Conversion de Int a String
             Console.WriteLine(Cadena);
 
+            // ---------------------- Estructuras Selectivas ---------------------- //
+
+            //   ( > Mayor que ) ( < Menor que ) ( >= Mayor o igual que ) ( <= Menor o igual que ) ( == igual que ) ( equals() Comparar cadena )
+
+            Console.WriteLine("Ingrese un numero para calcular si es par o impar");
+            string parImpar = Console.ReadLine();
+            int ParImpar = int.Parse(parImpar);
             
+            if (ParImpar % 2 ==0)
+            {
+                // Si se cumple la condición entra aquí
+                // Par
+            }
+            else if (ParImpar % 2 ==1)
+            {
+                // Si no se cumple la primera condición, entra aquí
+                // Impar
+            }
+            else
+            {
+                // Si no se cumple ninguna condición, entra aquí
+            }
+
+            int Calculo = ParImpar % 2;
+            if (ParImpar.Equals(0))
+            {
+                // Condición aplicando Equals
+            }
+
+            // ------------------------ If- Else anidado ------------------------ //
+
+            Console.WriteLine("Ingrese una nota (A B C)");
+            string valor = Console.ReadLine();
+            if (valor.Equals("A"))
+            {
+                // Cumple la condicion de ser igual a A entonces aprobo
+            }
+            else if (valor.Equals("B"))
+            {
+                // Cumple la condición de ser igual a B entonces necesita refuerzo
+            }
+            else if (valor.Equals("C"))
+            {
+                // Cumple la condición de ser igual a C entonces desaprobo
+            }
+            else
+            {
+                // Si no cumple las 3 condiciones anteriores entonces entrara al else
+            }
+
+            // ------------------------ Estructura Switch ------------------------ //
+
+            Console.WriteLine("Ingrese una nota");
+            string notaswitch = Console.ReadLine();
+
+            switch (notaswitch)
+            {
+                case "A": // Entra al case y muestra al usuario que aprobo
+                    break;
+                case "B": // Entra al case 2 y muestra al usuario que necesita refuerzo
+                    break;
+                case "C": // Entra al case 3 y muestra al usuario que desaprobo
+                    break;
+                default: //  Case por defecto como un else
+                    break;
+            }
+
+
 
             Console.ReadKey();
         }
