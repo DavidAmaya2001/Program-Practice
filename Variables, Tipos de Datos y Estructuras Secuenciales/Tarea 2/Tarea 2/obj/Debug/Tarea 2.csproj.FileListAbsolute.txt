@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Tarea 2\Tarea 2\bin\Debug\Tarea 2.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Tarea 2\Tarea 2\bin\Debug\Tarea 2.exe
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Tarea 2\Tarea 2\bin\Debug\Tarea 2.pdb
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Tarea 2\Tarea 2\obj\Debug\Tarea 2.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Tarea 2\Tarea 2\obj\Debug\Tarea 2.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Tarea 2\Tarea 2\obj\Debug\Tarea 2.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Tarea 2\Tarea 2\obj\Debug\Tarea 2.exe
+D:\Users\Documentos\GitHub\Program-Practice\Variables, Tipos de Datos y Estructuras Secuenciales\Tarea 2\Tarea 2\obj\Debug\Tarea 2.pdb
