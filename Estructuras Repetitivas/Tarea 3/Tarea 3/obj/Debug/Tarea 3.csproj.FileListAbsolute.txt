@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Tarea 3\Tarea 3\bin\Debug\Tarea 3.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Tarea 3\Tarea 3\bin\Debug\Tarea 3.exe
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Tarea 3\Tarea 3\bin\Debug\Tarea 3.pdb
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Tarea 3\Tarea 3\obj\Debug\Tarea 3.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Tarea 3\Tarea 3\obj\Debug\Tarea 3.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Tarea 3\Tarea 3\obj\Debug\Tarea 3.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Tarea 3\Tarea 3\obj\Debug\Tarea 3.exe
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Tarea 3\Tarea 3\obj\Debug\Tarea 3.pdb
