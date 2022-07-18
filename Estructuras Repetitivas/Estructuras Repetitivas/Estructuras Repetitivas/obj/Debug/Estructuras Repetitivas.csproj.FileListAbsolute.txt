@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Estructuras Repetitivas\Estructuras Repetitivas\bin\Debug\Estructuras Repetitivas.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Estructuras Repetitivas\Estructuras Repetitivas\bin\Debug\Estructuras Repetitivas.exe
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Estructuras Repetitivas\Estructuras Repetitivas\bin\Debug\Estructuras Repetitivas.pdb
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Estructuras Repetitivas\Estructuras Repetitivas\obj\Debug\Estructuras Repetitivas.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Estructuras Repetitivas\Estructuras Repetitivas\obj\Debug\Estructuras Repetitivas.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Estructuras Repetitivas\Estructuras Repetitivas\obj\Debug\Estructuras Repetitivas.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Estructuras Repetitivas\Estructuras Repetitivas\obj\Debug\Estructuras Repetitivas.exe
+D:\Users\Documentos\GitHub\Program-Practice\Estructuras Repetitivas\Estructuras Repetitivas\Estructuras Repetitivas\obj\Debug\Estructuras Repetitivas.pdb
