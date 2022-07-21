@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\5. Propiedades y Metodos de los tipos de dato\Propiedades de Datos Int\Propiedades de Datos Int\bin\Debug\Propiedades de Datos Int.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\5. Propiedades y Metodos de los tipos de dato\Propiedades de Datos Int\Propiedades de Datos Int\bin\Debug\Propiedades de Datos Int.exe
+D:\Users\Documentos\GitHub\Program-Practice\5. Propiedades y Metodos de los tipos de dato\Propiedades de Datos Int\Propiedades de Datos Int\bin\Debug\Propiedades de Datos Int.pdb
+D:\Users\Documentos\GitHub\Program-Practice\5. Propiedades y Metodos de los tipos de dato\Propiedades de Datos Int\Propiedades de Datos Int\obj\Debug\Propiedades de Datos Int.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\5. Propiedades y Metodos de los tipos de dato\Propiedades de Datos Int\Propiedades de Datos Int\obj\Debug\Propiedades de Datos Int.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\5. Propiedades y Metodos de los tipos de dato\Propiedades de Datos Int\Propiedades de Datos Int\obj\Debug\Propiedades de Datos Int.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\5. Propiedades y Metodos de los tipos de dato\Propiedades de Datos Int\Propiedades de Datos Int\obj\Debug\Propiedades de Datos Int.exe
+D:\Users\Documentos\GitHub\Program-Practice\5. Propiedades y Metodos de los tipos de dato\Propiedades de Datos Int\Propiedades de Datos Int\obj\Debug\Propiedades de Datos Int.pdb
