@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases y Propiedades\Clases y Propiedades\bin\Debug\Clases y Propiedades.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases y Propiedades\Clases y Propiedades\bin\Debug\Clases y Propiedades.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases y Propiedades\Clases y Propiedades\bin\Debug\Clases y Propiedades.pdb
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases y Propiedades\Clases y Propiedades\obj\Debug\Clases y Propiedades.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases y Propiedades\Clases y Propiedades\obj\Debug\Clases y Propiedades.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases y Propiedades\Clases y Propiedades\obj\Debug\Clases y Propiedades.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases y Propiedades\Clases y Propiedades\obj\Debug\Clases y Propiedades.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases y Propiedades\Clases y Propiedades\obj\Debug\Clases y Propiedades.pdb
