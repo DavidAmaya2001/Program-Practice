@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Tarea 5 Parte 3\Tarea 5 Parte 3\bin\Debug\Tarea 5 Parte 3.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Tarea 5 Parte 3\Tarea 5 Parte 3\bin\Debug\Tarea 5 Parte 3.exe
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Tarea 5 Parte 3\Tarea 5 Parte 3\bin\Debug\Tarea 5 Parte 3.pdb
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Tarea 5 Parte 3\Tarea 5 Parte 3\obj\Debug\Tarea 5 Parte 3.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Tarea 5 Parte 3\Tarea 5 Parte 3\obj\Debug\Tarea 5 Parte 3.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Tarea 5 Parte 3\Tarea 5 Parte 3\obj\Debug\Tarea 5 Parte 3.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Tarea 5 Parte 3\Tarea 5 Parte 3\obj\Debug\Tarea 5 Parte 3.exe
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Tarea 5 Parte 3\Tarea 5 Parte 3\obj\Debug\Tarea 5 Parte 3.pdb

@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculo de Sueldo con Funciones\Calculo de Sueldo con Funciones\bin\Debug\Calculo de Sueldo con Funciones.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculo de Sueldo con Funciones\Calculo de Sueldo con Funciones\bin\Debug\Calculo de Sueldo con Funciones.exe
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculo de Sueldo con Funciones\Calculo de Sueldo con Funciones\bin\Debug\Calculo de Sueldo con Funciones.pdb
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculo de Sueldo con Funciones\Calculo de Sueldo con Funciones\obj\Debug\Calculo de Sueldo con Funciones.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculo de Sueldo con Funciones\Calculo de Sueldo con Funciones\obj\Debug\Calculo de Sueldo con Funciones.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculo de Sueldo con Funciones\Calculo de Sueldo con Funciones\obj\Debug\Calculo de Sueldo con Funciones.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculo de Sueldo con Funciones\Calculo de Sueldo con Funciones\obj\Debug\Calculo de Sueldo con Funciones.exe
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculo de Sueldo con Funciones\Calculo de Sueldo con Funciones\obj\Debug\Calculo de Sueldo con Funciones.pdb

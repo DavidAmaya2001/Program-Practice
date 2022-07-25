@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculadora usando Funciones\Calculadora usando Funciones\bin\Debug\Calculadora usando Funciones.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculadora usando Funciones\Calculadora usando Funciones\bin\Debug\Calculadora usando Funciones.exe
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculadora usando Funciones\Calculadora usando Funciones\bin\Debug\Calculadora usando Funciones.pdb
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculadora usando Funciones\Calculadora usando Funciones\obj\Debug\Calculadora usando Funciones.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculadora usando Funciones\Calculadora usando Funciones\obj\Debug\Calculadora usando Funciones.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculadora usando Funciones\Calculadora usando Funciones\obj\Debug\Calculadora usando Funciones.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculadora usando Funciones\Calculadora usando Funciones\obj\Debug\Calculadora usando Funciones.exe
+D:\Users\Documentos\GitHub\Program-Practice\6. Metodos y Funciones\Calculadora usando Funciones\Calculadora usando Funciones\obj\Debug\Calculadora usando Funciones.pdb
