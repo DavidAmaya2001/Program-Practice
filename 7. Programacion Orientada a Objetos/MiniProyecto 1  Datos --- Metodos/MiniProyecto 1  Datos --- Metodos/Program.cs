@@ -34,6 +34,7 @@ namespace MiniProyecto_1__Datos_____Metodos
                 if(acceso == "si" || acceso =="Si" || acceso == "SI")
                 {
                     acceso = "true";
+                    Console.Clear();
                 }
                 else
                 {

@@ -31,50 +31,22 @@ namespace MiniProyecto_1__Datos_____Metodos
                     Console.WriteLine(" |  El resultado de la multiplicación es de: " + mltp + " | ");
                     Console.WriteLine(" ------------------------------------------------ ");
                     break;
-                case "/": double divs = dividendo();
-                    if (divs != 2.141567829818)
-                    {
-                        Console.WriteLine(" ------------------------------------------------ ");
-                        Console.WriteLine(" |    El resultado de la división es de: " + divs + "     | ");
-                        Console.WriteLine(" ------------------------------------------------ ");
-                    }
-                    else
-                    {
-                        Console.WriteLine(" ------------------------------------------------ ");
-                        Console.WriteLine("  | No se puede llevar acabo la operación (divisor != 0)  | ");
-                        Console.WriteLine(" ------------------------------------------------ ");
-                    }
+                case "/": dividendo();
                     break;
                 case "^": double potc = potencia();
                     Console.WriteLine(" ------------------------------------------------ ");
                     Console.WriteLine(" |     El resultado de la potencia es de: " + potc + "    | ");
                     Console.WriteLine(" ------------------------------------------------ ");
                     break;
-                case "!": int fact = factorial();
-                    if (fact != -1)
-                    {
-                        Console.WriteLine(" ------------------------------------------------ ");
-                        Console.WriteLine(" |     El resultado del factorial es de: " + fact + "     | ");
-                        Console.WriteLine(" ------------------------------------------------ ");
-                    }
-                    else
-                    {
-                        Console.WriteLine(" ------------------------------------------------ ");
-                        Console.WriteLine(" | No se puede llevar acabo la operación (factorial > 0)  | ");
-                        Console.WriteLine(" ------------------------------------------------ ");
-                    }
-                    
+                case "!": factorial();
                     break;
-                /*case "Abs": double absl = valorAbsoluto();
+                case "Abs": double absl = valorAbsoluto();
                     Console.WriteLine(" ------------------------------------------------ ");
                     Console.WriteLine(" |   El resultado del valor absoluto es de: " + absl + "  | ");
                     Console.WriteLine(" ------------------------------------------------ ");
                     break;
-                case "Tr": double trig = Triangulo();
-                    Console.WriteLine(" ------------------------------------------------ ");
-                    Console.WriteLine(" |      El resultado de el lado es de: " + trig + "       | ");
-                    Console.WriteLine(" ------------------------------------------------ ");
-                    break;*/
+                case "Tr": Triangulo();
+                    break;
                 default: Console.WriteLine("Error");
                     break;
             }
@@ -225,11 +197,16 @@ namespace MiniProyecto_1__Datos_____Metodos
                 {
 
                 }
+                Console.WriteLine(" ------------------------------------------------ ");
+                Console.WriteLine(" |    El resultado de la división es de: " + result + "     | ");
+                Console.WriteLine(" ------------------------------------------------ ");
 
             }
             else
             {
-                result = 2.141567829818;
+                Console.WriteLine(" --------------------------------------------------------- ");
+                Console.WriteLine("  | No se puede llevar acabo la operación (divisor != 0)  | ");
+                Console.WriteLine(" --------------------------------------------------------- ");
             }
             return result;
         }
@@ -294,14 +271,105 @@ namespace MiniProyecto_1__Datos_____Metodos
 
                     }
                 }
+                Console.WriteLine(" ------------------------------------------------ ");
+                Console.WriteLine(" |     El resultado del factorial es de: " + result + "     | ");
+                Console.WriteLine(" ------------------------------------------------ ");
             }
             else if (numero == 0)
             {
                 result = 1;
+                Console.WriteLine(" ------------------------------------------------ ");
+                Console.WriteLine(" |     El resultado del factorial es de: " + result + "     | ");
+                Console.WriteLine(" ------------------------------------------------ ");
             }
             else
             {
-                result= -1;
+                Console.WriteLine(" ---------------------------------------------------------- ");
+                Console.WriteLine(" | No se puede llevar acabo la operación (factorial > 0)  | ");
+                Console.WriteLine(" ---------------------------------------------------------- ");
+            }
+
+            return result;
+        }
+        public double valorAbsoluto()
+        {
+            double result = 0;
+            Console.WriteLine("\n                             -------------------------------------------------------");
+            Console.WriteLine("                             -------------------- Valor Absoluto -------------------");
+            Console.WriteLine("                             -------------------------------------------------------");
+
+            Console.WriteLine("\nIngrese el valor a calcular su absoluto: ");
+            double numero = double.Parse(Console.ReadLine());
+            result = Math.Abs(numero);
+
+
+            return result;
+        }
+        public double Triangulo()
+        {
+            double result = 0;
+            string opcion;
+            Console.WriteLine("\n                             -------------------------------------------------------");
+            Console.WriteLine("                             ----------------- Triangulo Rectangulo ----------------");
+            Console.WriteLine("                             -------------------------------------------------------");
+
+            Console.WriteLine("   ¿Que desea encontrar?  ");
+            Console.WriteLine(" -( Lado )-   -( Angulo )-");
+            opcion = Console.ReadLine();
+
+            if (opcion == "Lado" || opcion == "LADO" || opcion == "lado")
+            {
+                Console.WriteLine("             ¿Que lado desearía encontrar?              ");
+                Console.WriteLine(" -(Cateto Opuesto)- -(Cateto Adyacente)- -(Hipotenusa)- ");
+                string opcion2 = Console.ReadLine();
+                if(opcion2 == "Cateto Opuesto"||opcion2=="CATETO OPUESTO"||opcion2=="cateto opuesto"||opcion2=="Cateto opuesto")
+                {
+                    Console.WriteLine("Ingrese la medida del Cateto Adyacente:");
+                    double adyacente = double.Parse(Console.ReadLine());
+                    Console.WriteLine("Ingrese la medida de la hipotenusa:");
+                    double hipotenusa = double.Parse(Console.ReadLine());
+                    double cont = Math.Pow(hipotenusa, 2) - Math.Pow(adyacente, 2);
+                    result = Math.Sqrt(cont);
+                    Console.WriteLine(" --------------------------------------------------------------- ");
+                    Console.WriteLine(" | El resultado de la medida del Cateto Opuesto es de: " + result + "  | ");
+                    Console.WriteLine(" --------------------------------------------------------------- ");
+                }
+                else if (opcion2 == "Cateto Adyacente" || opcion2 == "CATETO ADYACENTE" || opcion2 == "cateto adyacente" || opcion2 == "Cateto adyacente")
+                {
+                    Console.WriteLine("Ingrese la medida del Cateto Opuesto:");
+                    double opuesto = double.Parse(Console.ReadLine());
+                    Console.WriteLine("Ingrese la medida de la hipotenusa:");
+                    double hipotenusa = double.Parse(Console.ReadLine());
+                    double cont = Math.Pow(hipotenusa, 2) - Math.Pow(opuesto, 2);
+                    result = Math.Sqrt(cont);
+                    Console.WriteLine(" --------------------------------------------------------------- ");
+                    Console.WriteLine(" | El resultado de la medida del Cateto Adyacente es de: " + result + "  | ");
+                    Console.WriteLine(" --------------------------------------------------------------- ");
+                }
+                else if (opcion2 == "Hipotenusa" || opcion2 == "HIPOTENUSA" || opcion2 == "hipotenusa")
+                {
+                    Console.WriteLine("Ingrese la medida del Cateto Adyacente:");
+                    double adyacente = double.Parse(Console.ReadLine());
+                    Console.WriteLine("Ingrese la medida del Cateto Opuesto:");
+                    double opuesto = double.Parse(Console.ReadLine());
+                    double cont = Math.Pow(adyacente, 2) + Math.Pow(opuesto, 2);
+                    result = Math.Sqrt(cont);
+                    Console.WriteLine(" --------------------------------------------------------------- ");
+                    Console.WriteLine(" |   El resultado de la medida de la Hipotenusa es de: " + result + "    | ");
+                    Console.WriteLine(" --------------------------------------------------------------- ");
+                }
+                else
+                {
+                    Console.WriteLine("No ha escogido o escrito bien algunas de las opciones.");
+                }
+            }
+            else if(opcion == "Angulo" || opcion == "ANGULO" || opcion == "angulo")
+            {
+
+            }
+            else
+            {
+                Console.WriteLine("No ha escogido o escrito bien algunas de las opciones.");
             }
 
             return result;
