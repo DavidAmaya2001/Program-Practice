@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 1  Datos --- Metodos\MiniProyecto 1  Datos --- Metodos\bin\Debug\MiniProyecto 1  Datos --- Metodos.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 1  Datos --- Metodos\MiniProyecto 1  Datos --- Metodos\bin\Debug\MiniProyecto 1  Datos --- Metodos.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 1  Datos --- Metodos\MiniProyecto 1  Datos --- Metodos\bin\Debug\MiniProyecto 1  Datos --- Metodos.pdb
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 1  Datos --- Metodos\MiniProyecto 1  Datos --- Metodos\obj\Debug\MiniProyecto 1  Datos --- Metodos.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 1  Datos --- Metodos\MiniProyecto 1  Datos --- Metodos\obj\Debug\MiniProyecto 1  Datos --- Metodos.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 1  Datos --- Metodos\MiniProyecto 1  Datos --- Metodos\obj\Debug\MiniProyecto 1  Datos --- Metodos.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 1  Datos --- Metodos\MiniProyecto 1  Datos --- Metodos\obj\Debug\MiniProyecto 1  Datos --- Metodos.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 1  Datos --- Metodos\MiniProyecto 1  Datos --- Metodos\obj\Debug\MiniProyecto 1  Datos --- Metodos.pdb

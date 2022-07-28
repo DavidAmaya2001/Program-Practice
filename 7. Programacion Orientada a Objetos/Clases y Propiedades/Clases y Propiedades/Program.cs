@@ -43,6 +43,14 @@ namespace Clases_y_Propiedades
             Console.WriteLine(objPersona.calcularSueldoAnual());
             Console.WriteLine(objPersona2.calcularSueldoAnual());
 
+            // ---------------------------------- Usando clase Persona (static) ----------------------------------- //
+
+            string Saludo = Persona.saludo("David");
+            Console.WriteLine(Saludo);
+
+            string saludo2 = Persona.saludo("Jorge", "Lopez");
+            Console.WriteLine(saludo2);
+
             // --------------------------------------- Usando clase Usuario --------------------------------------- //
 
             Usuario objUsuario = new Usuario();
