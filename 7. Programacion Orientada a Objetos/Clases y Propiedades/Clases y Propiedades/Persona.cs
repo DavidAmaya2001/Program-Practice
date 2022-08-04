@@ -29,7 +29,7 @@ namespace Clases_y_Propiedades
         }
         public static string saludo(string apellidopaterno, string apellidomaterno)
         {
-            return "Hola como estas: " + apellidomaterno + " " + apellidopaterno;                 // Para declarar otro metodo que tenga el mismo nombre que un metodo
+            return "Hola como estas: " + apellidomaterno + " " + apellidopaterno;// Para declarar otro metodo que tenga el mismo nombre que un metodo
         }                                                                 // creado anteriormente, este debe tener o mas parametros u otro tipo
                                                                           // de dato de la variable (int, string, double, etc)
         public static string saludo(int edad)
