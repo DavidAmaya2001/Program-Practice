@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Encapsulamiento - Get y Set\Encapsulamiento - Get y Set\bin\Debug\Encapsulamiento - Get y Set.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Encapsulamiento - Get y Set\Encapsulamiento - Get y Set\bin\Debug\Encapsulamiento - Get y Set.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Encapsulamiento - Get y Set\Encapsulamiento - Get y Set\bin\Debug\Encapsulamiento - Get y Set.pdb
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Encapsulamiento - Get y Set\Encapsulamiento - Get y Set\obj\Debug\Encapsulamiento - Get y Set.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Encapsulamiento - Get y Set\Encapsulamiento - Get y Set\obj\Debug\Encapsulamiento - Get y Set.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Encapsulamiento - Get y Set\Encapsulamiento - Get y Set\obj\Debug\Encapsulamiento - Get y Set.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Encapsulamiento - Get y Set\Encapsulamiento - Get y Set\obj\Debug\Encapsulamiento - Get y Set.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Encapsulamiento - Get y Set\Encapsulamiento - Get y Set\obj\Debug\Encapsulamiento - Get y Set.pdb
