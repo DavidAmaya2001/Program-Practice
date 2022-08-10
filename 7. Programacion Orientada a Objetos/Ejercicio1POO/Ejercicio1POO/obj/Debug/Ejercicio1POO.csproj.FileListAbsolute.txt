@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio1POO\Ejercicio1POO\bin\Debug\Ejercicio1POO.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio1POO\Ejercicio1POO\bin\Debug\Ejercicio1POO.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio1POO\Ejercicio1POO\bin\Debug\Ejercicio1POO.pdb
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio1POO\Ejercicio1POO\obj\Debug\Ejercicio1POO.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio1POO\Ejercicio1POO\obj\Debug\Ejercicio1POO.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio1POO\Ejercicio1POO\obj\Debug\Ejercicio1POO.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio1POO\Ejercicio1POO\obj\Debug\Ejercicio1POO.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio1POO\Ejercicio1POO\obj\Debug\Ejercicio1POO.pdb
