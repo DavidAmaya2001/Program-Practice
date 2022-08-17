@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\HerenciaPOO\HerenciaPOO\bin\Debug\HerenciaPOO.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\HerenciaPOO\HerenciaPOO\bin\Debug\HerenciaPOO.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\HerenciaPOO\HerenciaPOO\bin\Debug\HerenciaPOO.pdb
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\HerenciaPOO\HerenciaPOO\obj\Debug\HerenciaPOO.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\HerenciaPOO\HerenciaPOO\obj\Debug\HerenciaPOO.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\HerenciaPOO\HerenciaPOO\obj\Debug\HerenciaPOO.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\HerenciaPOO\HerenciaPOO\obj\Debug\HerenciaPOO.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\HerenciaPOO\HerenciaPOO\obj\Debug\HerenciaPOO.pdb

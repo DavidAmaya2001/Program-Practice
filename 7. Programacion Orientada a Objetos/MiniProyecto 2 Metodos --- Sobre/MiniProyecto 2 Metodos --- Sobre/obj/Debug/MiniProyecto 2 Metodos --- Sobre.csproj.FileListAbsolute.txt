@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 2 Metodos --- Sobre\MiniProyecto 2 Metodos --- Sobre\bin\Debug\MiniProyecto 2 Metodos --- Sobre.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 2 Metodos --- Sobre\MiniProyecto 2 Metodos --- Sobre\bin\Debug\MiniProyecto 2 Metodos --- Sobre.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 2 Metodos --- Sobre\MiniProyecto 2 Metodos --- Sobre\bin\Debug\MiniProyecto 2 Metodos --- Sobre.pdb
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 2 Metodos --- Sobre\MiniProyecto 2 Metodos --- Sobre\obj\Debug\MiniProyecto 2 Metodos --- Sobre.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 2 Metodos --- Sobre\MiniProyecto 2 Metodos --- Sobre\obj\Debug\MiniProyecto 2 Metodos --- Sobre.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 2 Metodos --- Sobre\MiniProyecto 2 Metodos --- Sobre\obj\Debug\MiniProyecto 2 Metodos --- Sobre.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 2 Metodos --- Sobre\MiniProyecto 2 Metodos --- Sobre\obj\Debug\MiniProyecto 2 Metodos --- Sobre.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\MiniProyecto 2 Metodos --- Sobre\MiniProyecto 2 Metodos --- Sobre\obj\Debug\MiniProyecto 2 Metodos --- Sobre.pdb
