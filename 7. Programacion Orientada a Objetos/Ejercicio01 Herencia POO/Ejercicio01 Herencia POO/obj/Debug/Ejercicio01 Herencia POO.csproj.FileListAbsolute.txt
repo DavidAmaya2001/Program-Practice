@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio01 Herencia POO\Ejercicio01 Herencia POO\bin\Debug\Ejercicio01 Herencia POO.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio01 Herencia POO\Ejercicio01 Herencia POO\bin\Debug\Ejercicio01 Herencia POO.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio01 Herencia POO\Ejercicio01 Herencia POO\bin\Debug\Ejercicio01 Herencia POO.pdb
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio01 Herencia POO\Ejercicio01 Herencia POO\obj\Debug\Ejercicio01 Herencia POO.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio01 Herencia POO\Ejercicio01 Herencia POO\obj\Debug\Ejercicio01 Herencia POO.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio01 Herencia POO\Ejercicio01 Herencia POO\obj\Debug\Ejercicio01 Herencia POO.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio01 Herencia POO\Ejercicio01 Herencia POO\obj\Debug\Ejercicio01 Herencia POO.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Ejercicio01 Herencia POO\Ejercicio01 Herencia POO\obj\Debug\Ejercicio01 Herencia POO.pdb

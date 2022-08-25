@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases Abstractas\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.exe
+D:\Users\Documentos\GitHub\Program-Practice\7. Programacion Orientada a Objetos\Clases Abstractas\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
