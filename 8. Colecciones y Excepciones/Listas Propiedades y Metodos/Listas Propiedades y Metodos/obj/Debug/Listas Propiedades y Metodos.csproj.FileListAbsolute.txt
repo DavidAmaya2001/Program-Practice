@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Listas Propiedades y Metodos\Listas Propiedades y Metodos\bin\Debug\Listas Propiedades y Metodos.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Listas Propiedades y Metodos\Listas Propiedades y Metodos\bin\Debug\Listas Propiedades y Metodos.exe
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Listas Propiedades y Metodos\Listas Propiedades y Metodos\bin\Debug\Listas Propiedades y Metodos.pdb
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Listas Propiedades y Metodos\Listas Propiedades y Metodos\obj\Debug\Listas Propiedades y Metodos.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Listas Propiedades y Metodos\Listas Propiedades y Metodos\obj\Debug\Listas Propiedades y Metodos.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Listas Propiedades y Metodos\Listas Propiedades y Metodos\obj\Debug\Listas Propiedades y Metodos.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Listas Propiedades y Metodos\Listas Propiedades y Metodos\obj\Debug\Listas Propiedades y Metodos.exe
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Listas Propiedades y Metodos\Listas Propiedades y Metodos\obj\Debug\Listas Propiedades y Metodos.pdb

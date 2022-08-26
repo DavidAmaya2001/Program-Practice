@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Introduccion a las Listas\Introduccion a las Listas\bin\Debug\Introduccion a las Listas.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Introduccion a las Listas\Introduccion a las Listas\bin\Debug\Introduccion a las Listas.exe
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Introduccion a las Listas\Introduccion a las Listas\bin\Debug\Introduccion a las Listas.pdb
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Introduccion a las Listas\Introduccion a las Listas\obj\Debug\Introduccion a las Listas.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Introduccion a las Listas\Introduccion a las Listas\obj\Debug\Introduccion a las Listas.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Introduccion a las Listas\Introduccion a las Listas\obj\Debug\Introduccion a las Listas.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Introduccion a las Listas\Introduccion a las Listas\obj\Debug\Introduccion a las Listas.exe
+D:\Users\Documentos\GitHub\Program-Practice\8. Colecciones y Excepciones\Introduccion a las Listas\Introduccion a las Listas\obj\Debug\Introduccion a las Listas.pdb
