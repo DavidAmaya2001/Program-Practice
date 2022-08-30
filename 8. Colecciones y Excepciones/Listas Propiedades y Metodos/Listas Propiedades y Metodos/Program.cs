@@ -31,7 +31,7 @@ namespace Listas_Propiedades_y_Metodos
                 new Cliente("Rodrigo", "Cuba", "Affonso", 25, "ABC Estadio Cusca")
             };
 
-            Console.WriteLine("\n");
+            Console.WriteLine("\nAddRange -->\n");
             listaCliente.AddRange(listaCliente2);
 
             foreach (Cliente oCliente in listaCliente)
@@ -39,7 +39,72 @@ namespace Listas_Propiedades_y_Metodos
                 Console.WriteLine(oCliente.nombre);
             }
 
-            Console.WriteLine("\nNumero de elementos: " + listaCliente.Count);
+            Console.WriteLine("\nNumero de elementos: " + listaCliente.Count + "\n");
+
+            // ------------------------------------------------- Metodos de una Lista ------------------------------------------------- //
+
+            // Encontrar elemento de una lista ( busqueda )
+            Cliente oClienteResultado = listaCliente.Find(p => p.nombre.Equals("Adrian"));
+            if (oClienteResultado != null)
+            {
+                Console.WriteLine("Find --> " + oClienteResultado.apPaterno + "\n");
+            }
+            else
+            {
+                Console.WriteLine("No se encontro");
+            }
+
+            // Encontrar todos los elementos de una lista con FindAll
+            List<Cliente> Lista = listaCliente.FindAll(p => p.nombre.StartsWith("L"));
+            Console.WriteLine("\nFind All -->\n");
+            foreach (Cliente oClienteF in Lista)
+            {
+                Console.WriteLine(oClienteF.nombre + " " + oClienteF.apPaterno + " " + oClienteF.apMaterno);
+            }
+
+            // Agregar un objeto en la posicion que se quiera
+            listaCliente.Insert(0, new Cliente("El Pepe", "Ete Sech", "Potaxio", 45, "San Pobrertin"));
+            Console.WriteLine("\nInsert -->\n");
+            foreach (Cliente oCliente in listaCliente)
+            {
+                Console.WriteLine(oCliente.nombre);
+            }
+
+            // Agregar determinado rango en la posicion que se quiera
+            List<Cliente> listaCliente3 = new List<Cliente>
+            {
+                new Cliente("Josepo", "Rubiola", "Pacon", 12, "ABC CojutePobre"),
+                new Cliente("Rubi", "Ramirez", "Melgar", 70, "ABC Estadio Cusca")
+            };
+            listaCliente.InsertRange(1, listaCliente3); // Despues de el pepe
+            Console.WriteLine("\nInsertRange -->\n");
+            foreach (Cliente oCliente in listaCliente)
+            {
+                Console.WriteLine(oCliente.nombre);
+            }
+
+            // Eliminar un objeto o varios objetos
+            listaCliente.RemoveAll(p => p.nombre.EndsWith("n"));
+            Console.WriteLine("\nRemoveAll -->\n");
+            foreach (Cliente oCliente in listaCliente)
+            {
+                Console.WriteLine(oCliente.nombre);
+            }
+
+            listaCliente.Remove(listaCliente.Find(p => p.nombre.EndsWith("o")));
+            Console.WriteLine("\nRemove -->\n");
+            foreach (Cliente oCliente in listaCliente)
+            {
+                Console.WriteLine(oCliente.nombre);
+            }
+
+            listaCliente.RemoveAt(0);
+            Console.WriteLine("\nRemoveAt -->\n");
+            foreach (Cliente oCliente in listaCliente)
+            {
+                Console.WriteLine(oCliente.nombre);
+            }
+
 
             // Limpiar elementos de una lista
             listaCliente.Clear();
