@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\9. Manejo de Directorios y Archivos\Propiedades de los Directorios\Propiedades de los Directorios\bin\Debug\Propiedades de los Directorios.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\9. Manejo de Directorios y Archivos\Propiedades de los Directorios\Propiedades de los Directorios\bin\Debug\Propiedades de los Directorios.exe
+D:\Users\Documentos\GitHub\Program-Practice\9. Manejo de Directorios y Archivos\Propiedades de los Directorios\Propiedades de los Directorios\bin\Debug\Propiedades de los Directorios.pdb
+D:\Users\Documentos\GitHub\Program-Practice\9. Manejo de Directorios y Archivos\Propiedades de los Directorios\Propiedades de los Directorios\obj\Debug\Propiedades de los Directorios.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\9. Manejo de Directorios y Archivos\Propiedades de los Directorios\Propiedades de los Directorios\obj\Debug\Propiedades de los Directorios.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\9. Manejo de Directorios y Archivos\Propiedades de los Directorios\Propiedades de los Directorios\obj\Debug\Propiedades de los Directorios.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\9. Manejo de Directorios y Archivos\Propiedades de los Directorios\Propiedades de los Directorios\obj\Debug\Propiedades de los Directorios.exe
+D:\Users\Documentos\GitHub\Program-Practice\9. Manejo de Directorios y Archivos\Propiedades de los Directorios\Propiedades de los Directorios\obj\Debug\Propiedades de los Directorios.pdb
