@@ -1,0 +1,3 @@
+Escribiendo una cadena en un archivo de texto
+leyendolo para consola
+Nueva informacion
