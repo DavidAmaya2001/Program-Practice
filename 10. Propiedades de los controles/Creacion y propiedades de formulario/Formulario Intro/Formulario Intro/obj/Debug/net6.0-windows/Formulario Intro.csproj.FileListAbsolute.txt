@@ -1,0 +1,18 @@
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\bin\Debug\net6.0-windows\Formulario Intro.exe
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\bin\Debug\net6.0-windows\Formulario Intro.deps.json
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\bin\Debug\net6.0-windows\Formulario Intro.runtimeconfig.json
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\bin\Debug\net6.0-windows\Formulario Intro.dll
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\bin\Debug\net6.0-windows\Formulario Intro.pdb
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario Intro.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario Intro.csproj.GenerateResource.cache
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario Intro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario Intro.AssemblyInfoInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario Intro.AssemblyInfo.cs
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario Intro.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario Intro.dll
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\refint\Formulario Intro.dll
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario Intro.pdb
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario Intro.genruntimeconfig.cache
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\ref\Formulario Intro.dll
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario_Intro.Properties.Resources.resources
+D:\Users\Documentos\GitHub\Program-Practice\10. Propiedades de los controles\Creacion y propiedades de formulario\Formulario Intro\Formulario Intro\obj\Debug\net6.0-windows\Formulario_Intro.FormPrincipal.resources

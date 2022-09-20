@@ -139,7 +139,7 @@ namespace Propiedades_de_Datos_Int
             Console.WriteLine(TimeSpan.FromHours(2));               // .FromHours convierte el valor a un TimeSpan de 02: 00: 00
             Console.WriteLine(TimeSpan.FromMinutes(3));             // .FromMinutes convierte el valor a un TimeSpan de 00: 03: 00
             Console.WriteLine(TimeSpan.FromSeconds(4));             // .FromSeconds convierte el valor a un TimeSpan de 00: 00: 04
-            Console.WriteLine(TimeSpan.FromMilliseconds(5));        // .FromMiliseconds convierte el valor a un TimeSpan de 00: 00: 00.0080000
+            Console.WriteLine(TimeSpan.FromMilliseconds(5));        // .FromMiliseconds convierte el valor a un TimeSpan de 00: 00: 00.0050000
 
             string Fecha = "17:20:10";
             TimeSpan.ParseExact(Fecha, @"h\:mm\:ss", null);         // .ParseExact convierte una cadena a un formato de TimeSpan
