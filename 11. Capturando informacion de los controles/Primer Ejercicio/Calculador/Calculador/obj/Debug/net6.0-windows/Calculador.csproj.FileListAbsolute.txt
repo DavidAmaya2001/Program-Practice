@@ -1,0 +1,17 @@
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\bin\Debug\net6.0-windows\Calculador.exe
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\bin\Debug\net6.0-windows\Calculador.deps.json
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\bin\Debug\net6.0-windows\Calculador.runtimeconfig.json
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\bin\Debug\net6.0-windows\Calculador.dll
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\bin\Debug\net6.0-windows\Calculador.pdb
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\Calculador.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\Calculador.Form1.resources
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\Calculador.csproj.GenerateResource.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\Calculador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\Calculador.AssemblyInfoInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\Calculador.AssemblyInfo.cs
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\Calculador.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\Calculador.dll
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\refint\Calculador.dll
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\Calculador.pdb
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\Calculador.genruntimeconfig.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Primer Ejercicio\Calculador\Calculador\obj\Debug\net6.0-windows\ref\Calculador.dll
