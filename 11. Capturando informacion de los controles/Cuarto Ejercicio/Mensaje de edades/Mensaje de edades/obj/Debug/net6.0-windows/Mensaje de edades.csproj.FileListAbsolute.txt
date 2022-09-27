@@ -1,0 +1,17 @@
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\bin\Debug\net6.0-windows\Mensaje de edades.exe
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\bin\Debug\net6.0-windows\Mensaje de edades.deps.json
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\bin\Debug\net6.0-windows\Mensaje de edades.runtimeconfig.json
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\bin\Debug\net6.0-windows\Mensaje de edades.dll
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\bin\Debug\net6.0-windows\Mensaje de edades.pdb
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\Mensaje de edades.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\Mensaje_de_edades.Form1.resources
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\Mensaje de edades.csproj.GenerateResource.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\Mensaje de edades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\Mensaje de edades.AssemblyInfoInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\Mensaje de edades.AssemblyInfo.cs
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\Mensaje de edades.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\Mensaje de edades.dll
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\refint\Mensaje de edades.dll
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\Mensaje de edades.pdb
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\Mensaje de edades.genruntimeconfig.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Cuarto Ejercicio\Mensaje de edades\Mensaje de edades\obj\Debug\net6.0-windows\ref\Mensaje de edades.dll

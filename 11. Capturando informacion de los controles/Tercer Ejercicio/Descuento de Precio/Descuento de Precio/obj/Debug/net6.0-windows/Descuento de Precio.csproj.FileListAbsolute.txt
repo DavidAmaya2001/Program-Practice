@@ -1,0 +1,17 @@
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\bin\Debug\net6.0-windows\Descuento de Precio.exe
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\bin\Debug\net6.0-windows\Descuento de Precio.deps.json
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\bin\Debug\net6.0-windows\Descuento de Precio.runtimeconfig.json
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\bin\Debug\net6.0-windows\Descuento de Precio.dll
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\bin\Debug\net6.0-windows\Descuento de Precio.pdb
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\Descuento de Precio.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\Descuento_de_Precio.frmPrincipal.resources
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\Descuento de Precio.csproj.GenerateResource.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\Descuento de Precio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\Descuento de Precio.AssemblyInfoInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\Descuento de Precio.AssemblyInfo.cs
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\Descuento de Precio.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\Descuento de Precio.dll
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\refint\Descuento de Precio.dll
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\Descuento de Precio.pdb
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\Descuento de Precio.genruntimeconfig.cache
+D:\Users\Documentos\GitHub\Program-Practice\11. Capturando informacion de los controles\Tercer Ejercicio\Descuento de Precio\Descuento de Precio\obj\Debug\net6.0-windows\ref\Descuento de Precio.dll
