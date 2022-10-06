@@ -249,6 +249,7 @@
             this.btnMultiplicacion.TabIndex = 13;
             this.btnMultiplicacion.Text = "X";
             this.btnMultiplicacion.UseVisualStyleBackColor = false;
+            this.btnMultiplicacion.Click += new System.EventHandler(this.btnMultiplicacion_Click);
             // 
             // btnDivision
             // 
@@ -262,6 +263,7 @@
             this.btnDivision.TabIndex = 14;
             this.btnDivision.Text = "/";
             this.btnDivision.UseVisualStyleBackColor = false;
+            this.btnDivision.Click += new System.EventHandler(this.btnDivision_Click);
             // 
             // btnSuma
             // 
@@ -289,6 +291,7 @@
             this.btnResta.TabIndex = 16;
             this.btnResta.Text = "-";
             this.btnResta.UseVisualStyleBackColor = false;
+            this.btnResta.Click += new System.EventHandler(this.btnResta_Click);
             // 
             // btnPorcentaje
             // 
@@ -302,6 +305,7 @@
             this.btnPorcentaje.TabIndex = 17;
             this.btnPorcentaje.Text = "%";
             this.btnPorcentaje.UseVisualStyleBackColor = false;
+            this.btnPorcentaje.Click += new System.EventHandler(this.btnPorcentaje_Click);
             // 
             // btnResultado
             // 
@@ -342,6 +346,7 @@
             this.btnLn.TabIndex = 21;
             this.btnLn.Text = "Ln";
             this.btnLn.UseVisualStyleBackColor = false;
+            this.btnLn.Click += new System.EventHandler(this.btnLn_Click);
             // 
             // btnLog
             // 
@@ -354,6 +359,7 @@
             this.btnLog.TabIndex = 22;
             this.btnLog.Text = "Log";
             this.btnLog.UseVisualStyleBackColor = false;
+            this.btnLog.Click += new System.EventHandler(this.btnLog_Click);
             // 
             // btnSin
             // 
@@ -366,6 +372,7 @@
             this.btnSin.TabIndex = 23;
             this.btnSin.Text = "Sin";
             this.btnSin.UseVisualStyleBackColor = false;
+            this.btnSin.Click += new System.EventHandler(this.btnSin_Click);
             // 
             // btnCos
             // 
@@ -378,6 +385,7 @@
             this.btnCos.TabIndex = 24;
             this.btnCos.Text = "Cos";
             this.btnCos.UseVisualStyleBackColor = false;
+            this.btnCos.Click += new System.EventHandler(this.btnCos_Click);
             // 
             // btnTan
             // 
@@ -390,6 +398,7 @@
             this.btnTan.TabIndex = 25;
             this.btnTan.Text = "Tan";
             this.btnTan.UseVisualStyleBackColor = false;
+            this.btnTan.Click += new System.EventHandler(this.btnTan_Click);
             // 
             // btnExp
             // 
@@ -402,11 +411,11 @@
             this.btnExp.TabIndex = 26;
             this.btnExp.Text = "e▝";
             this.btnExp.UseVisualStyleBackColor = false;
+            this.btnExp.Click += new System.EventHandler(this.btnExp_Click);
             // 
             // btnCuadrado
             // 
             this.btnCuadrado.BackColor = System.Drawing.Color.White;
-            this.btnCuadrado.Enabled = false;
             this.btnCuadrado.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCuadrado.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnCuadrado.Location = new System.Drawing.Point(463, 338);
@@ -415,11 +424,11 @@
             this.btnCuadrado.TabIndex = 27;
             this.btnCuadrado.Text = "x²";
             this.btnCuadrado.UseVisualStyleBackColor = false;
+            this.btnCuadrado.Click += new System.EventHandler(this.btnCuadrado_Click);
             // 
             // btnCubico
             // 
             this.btnCubico.BackColor = System.Drawing.Color.White;
-            this.btnCubico.Enabled = false;
             this.btnCubico.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCubico.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnCubico.Location = new System.Drawing.Point(533, 338);
@@ -428,11 +437,11 @@
             this.btnCubico.TabIndex = 28;
             this.btnCubico.Text = "x³";
             this.btnCubico.UseVisualStyleBackColor = false;
+            this.btnCubico.Click += new System.EventHandler(this.btnCubico_Click);
             // 
             // btnPotencia
             // 
             this.btnPotencia.BackColor = System.Drawing.Color.White;
-            this.btnPotencia.Enabled = false;
             this.btnPotencia.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPotencia.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnPotencia.Location = new System.Drawing.Point(605, 338);
@@ -441,6 +450,7 @@
             this.btnPotencia.TabIndex = 29;
             this.btnPotencia.Text = "x▝";
             this.btnPotencia.UseVisualStyleBackColor = false;
+            this.btnPotencia.Click += new System.EventHandler(this.btnPotencia_Click);
             // 
             // btnRaiz
             // 
