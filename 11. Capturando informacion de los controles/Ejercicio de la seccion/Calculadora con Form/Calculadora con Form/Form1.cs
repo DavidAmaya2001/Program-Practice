@@ -22,6 +22,8 @@
         string botonEspecial = "Defect";
         string validacion = "";
         string command = "";
+        string especialesbtn = "";
+        string pi_touch = "";
 
 
 
@@ -29,97 +31,281 @@
 
         private void btnUno_Click(object sender, EventArgs e)
         {
-            //Añadido a la Lista string
-            dataUnitario.Add("1");
-
-            //Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "1";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add("1");
+                txtContain.Text = txtContain.Text + "1";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add("1");
+                txtContain.Text = txtContain.Text + "¹";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add("1");
+                txtContain.Text = txtContain.Text + "¹";
+            }
 
             //Habilitando calculadora completa
+            if (especialesbtn == "no-repeat")
+            {
+                No_Repeat_Habilitador();
+            }
+            else if (especialesbtn == "porcentaje")
+            {
+                Porcentaje_Hab();
+            }
+            else
+            {
+                Basic_Habilitador();
+            }
 
         }
 
         private void btnDos_Click(object sender, EventArgs e)
         {
-            //Añadido a la Lista string
-            dataUnitario.Add("2");
-
-            //Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "2";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add("2");
+                txtContain.Text = txtContain.Text + "2";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add("2");
+                txtContain.Text = txtContain.Text + "²";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add("2");
+                txtContain.Text = txtContain.Text + "²";
+            }
 
             //Habilitando calculadora completa
+            if (especialesbtn == "no-repeat")
+            {
+                No_Repeat_Habilitador();
+            }
+            else if(especialesbtn == "porcentaje")
+            {
+                Porcentaje_Hab();
+            }
+            else
+            {
+                Basic_Habilitador();
+            }
 
         }
 
         private void btnTres_Click(object sender, EventArgs e)
         {
-            //Añadido a la Lista string
-            dataUnitario.Add("3");
-
-            //Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "3";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add("3");
+                txtContain.Text = txtContain.Text + "3";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add("3");
+                txtContain.Text = txtContain.Text + "³";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add("3");
+                txtContain.Text = txtContain.Text + "³";
+            }
 
             //Habilitando calculadora completa
+            if (especialesbtn == "no-repeat")
+            {
+                No_Repeat_Habilitador();
+            }
+            else if (especialesbtn == "porcentaje")
+            {
+                Porcentaje_Hab();
+            }
+            else
+            {
+                Basic_Habilitador();
+            }
 
         }
 
         private void btnCuatro_Click(object sender, EventArgs e)
         {
-            //Añadido a la Lista string
-            dataUnitario.Add("4");
-
-            //Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "4";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add("4");
+                txtContain.Text = txtContain.Text + "4";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add("4");
+                txtContain.Text = txtContain.Text + "⁴";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add("4");
+                txtContain.Text = txtContain.Text + "⁴";
+            }
 
             //Habilitando calculadora completa
+            if (especialesbtn == "no-repeat")
+            {
+                No_Repeat_Habilitador();
+            }
+            else if (especialesbtn == "porcentaje")
+            {
+                Porcentaje_Hab();
+            }
+            else
+            {
+                Basic_Habilitador();
+            }
 
         }
 
         private void btnCinco_Click(object sender, EventArgs e)
         {
-            //Añadido a la Lista string
-            dataUnitario.Add("5");
-
-            //Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "5";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add("5");
+                txtContain.Text = txtContain.Text + "5";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add("5");
+                txtContain.Text = txtContain.Text + "⁵";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add("5");
+                txtContain.Text = txtContain.Text + "⁵";
+            }
 
             //Habilitando calculadora completa
+            if (especialesbtn == "no-repeat")
+            {
+                No_Repeat_Habilitador();
+            }
+            else if (especialesbtn == "porcentaje")
+            {
+                Porcentaje_Hab();
+            }
+            else
+            {
+                Basic_Habilitador();
+            }
 
         }
 
         private void btnSeis_Click(object sender, EventArgs e)
         {
-            //Añadido a la Lista string
-            dataUnitario.Add("6");
-
-            //Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "6";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add("6");
+                txtContain.Text = txtContain.Text + "6";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add("6");
+                txtContain.Text = txtContain.Text + "⁶";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add("6");
+                txtContain.Text = txtContain.Text + "⁶";
+            }
 
             //Habilitando calculadora completa
+            if(especialesbtn == "no-repeat")
+            {
+                No_Repeat_Habilitador();
+            }
+            else if (especialesbtn == "porcentaje")
+            {
+                Porcentaje_Hab();
+            }
+            else
+            {
+                Basic_Habilitador();
+            }
 
         }
 
         private void btnSiete_Click(object sender, EventArgs e)
         {
-            //Añadido a la Lista string
-            dataUnitario.Add("7");
-
-            //Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "7";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add("7");
+                txtContain.Text = txtContain.Text + "7";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add("7");
+                txtContain.Text = txtContain.Text + "⁷";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add("7");
+                txtContain.Text = txtContain.Text + "⁷";
+            }
 
             //Habilitando calculadora completa
+            if (especialesbtn == "no-repeat")
+            {
+                No_Repeat_Habilitador();
+            }
+            else if (especialesbtn == "porcentaje")
+            {
+                Porcentaje_Hab();
+            }
+            else
+            {
+                Basic_Habilitador();
+            }
 
         }
 
         private void btnOcho_Click(object sender, EventArgs e)
         {
-            //Añadido a la Lista string
-            dataUnitario.Add("8");
-
-            //Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "8";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add("8");
+                txtContain.Text = txtContain.Text + "8";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add("8");
+                txtContain.Text = txtContain.Text + "⁸";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add("8");
+                txtContain.Text = txtContain.Text + "⁸";
+            }
 
             //Habilitando calculadora completa
+            if (especialesbtn == "no-repeat")
+            {
+                No_Repeat_Habilitador();
+            }
+            else if (especialesbtn == "porcentaje")
+            {
+                Porcentaje_Hab();
+            }
+            else
+            {
+                Basic_Habilitador();
+            }
 
         }
 
@@ -132,7 +318,8 @@
                 txtContain.Text = txtContain.Text + "9";
             }
             else if(command == "Expo") // con expo se puede agregar operaciones basicas
-            { 
+            {
+                dataUnitario.Add("9");
                 txtContain.Text = txtContain.Text + "⁹";
             }
             else if(command == "Pot") // Con pot no se podra añadir operaciones
@@ -142,54 +329,136 @@
             }
 
             //Habilitando calculadora completa
-            btnSuma.Enabled = true;
-            btnResultado.Enabled = true;
+            if (especialesbtn == "no-repeat")
+            {
+                No_Repeat_Habilitador();
+            }
+            else if (especialesbtn == "porcentaje")
+            {
+                Porcentaje_Hab();
+            }
+            else
+            {
+                Basic_Habilitador();
+            }
+
         }
 
 
         private void btnCero_Click(object sender, EventArgs e)
         {
-            //Añadiendo a la Lista string
-            dataUnitario.Add("0");
-
-            //Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "0";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add("0");
+                txtContain.Text = txtContain.Text + "0";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add("0");
+                txtContain.Text = txtContain.Text + "⁰";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add("0");
+                txtContain.Text = txtContain.Text + "⁰";
+            }
 
             //Habilitando calculadora completa
+            if(especialesbtn == "no-repeat")
+            {
+                No_Repeat_Habilitador();
+            }
+            else if (especialesbtn == "porcentaje")
+            {
+                Porcentaje_Hab();
+            }
+            else
+            {
+                Basic_Habilitador();
+            }
 
         }
 
         private void btnPi_Click(object sender, EventArgs e)
         {
-            // Añadiendo a la lista string
-            dataUnitario.Add("3.1415926535897931");
-
-            //Impresion en la patalla
-            txtContain.Text = txtContain.Text + "π";
+            pi_touch = "pi";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add("3.14159265");
+                txtContain.Text = txtContain.Text + "π";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add("3.14159265");
+                txtContain.Text = txtContain.Text + "ᵀᵀ";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add("3.14159265");
+                txtContain.Text = txtContain.Text + "ᵀᵀ";
+            }
 
 
             // Habilitando calculadora completa
-
+            if (especialesbtn == "no-repeat")
+            {
+                No_Repeat_Pi();
+            }
+            else if (especialesbtn == "porcentaje")
+            {
+                Porcentaje_Pi();
+            }
+            else
+            {
+                Pi_Habilitador();
+            }
         }
 
         private void btnPunto_Click(object sender, EventArgs e)
         {
-            // Añdiendo a la lista string
-            dataUnitario.Add(".");
-
-            //Impresion en la pantalla
-            txtContain.Text = txtContain.Text + ".";
+            //Impresion en la pantalla y guardado de datos
+            if (command == "")
+            {
+                dataUnitario.Add(".");
+                txtContain.Text = txtContain.Text + ".";
+            }
+            else if (command == "Expo") // con expo se puede agregar operaciones basicas
+            {
+                dataUnitario.Add(".");
+                txtContain.Text = txtContain.Text + "·";
+            }
+            else if (command == "Pot") // Con pot no se podra añadir operaciones
+            {
+                dataUnitPot.Add(".");
+                txtContain.Text = txtContain.Text + "·";
+            }
 
             // Desabilitando el uso del doble punto
-
+            if (especialesbtn == "no-repeat")
+            {
+                Punto_No_Repeat();
+            }
+            else
+            {
+                Punto_Habilitador();
+            }
         }
 
         private void btnAC_Click(object sender, EventArgs e)
         {
             // Eliminando todo
             txtContain.Text = "";
+            command = "";
+            validacion = "";
+            botonEspecial = "Defect";
+            especialesbtn = "";
             LimpiezaDeDatos();
             LimpiezaDeConjunto();
+            LimpiezaDeDatosPot();
+            LimpiezaDeConjuntoPot();
+            Reset_Calculadora();
         }
 
         // ---------------------------------------------- Funciones Operacionales ----------------------------------------------------- //
@@ -264,15 +533,18 @@
                             resultado = dataConjunto[0] * dataConjunto[1];
                             break;
                         case "/":
-                            try
+                            if (dataConjunto[1] != 0)
                             {
                                 resultado = dataConjunto[0] / dataConjunto[1];
                             }
-                            catch (DivideByZeroException)
+                            else
                             {
                                 MessageBox.Show("Se ha producido un error al tratar de dividir entre 0", "Error del Sistema", MessageBoxButtons.OK, MessageBoxIcon.Error);
                                 validacion = "error";
                             }
+                            break;
+                        case "%":
+                            resultado = dataConjunto[0] * (dataConjunto[1] / 100);
                             break;
                         default:
                             MessageBox.Show("Error de ingreso de simbolo en ciclo 1");
@@ -299,11 +571,11 @@
                         resultado = resultado * dataConjunto[i + 1];
                         break;
                     case "/":
-                        try
+                        if (dataConjunto[ i + 1] != 0)
                         {
                             resultado = resultado / dataConjunto[i + 1];
                         }
-                        catch (DivideByZeroException)
+                        else
                         {
                             MessageBox.Show("Se ha producido un error al tratar de dividir entre 0", "Error del Sistema", MessageBoxButtons.OK, MessageBoxIcon.Error);
                             validacion = "error";
@@ -334,11 +606,11 @@
                             resultadopot = dataConjPot[0] * dataConjPot[1];
                             break;
                         case "/":
-                            try
+                            if (dataConjPot[1] != 0)
                             {
                                 resultadopot = dataConjPot[0] / dataConjPot[1];
                             }
-                            catch (DivideByZeroException)
+                            else
                             {
                                 MessageBox.Show("Se ha producido un error al tratar de dividir entre 0", "Error del Sistema", MessageBoxButtons.OK, MessageBoxIcon.Error);
                                 validacion = "error";
@@ -369,11 +641,11 @@
                         resultadopot = resultadopot * dataConjPot[i + 1];
                         break;
                     case "/":
-                        try
+                        if(dataConjPot[ i + 1] != 0)
                         {
                             resultadopot = resultadopot / dataConjPot[i + 1];
                         }
-                        catch (DivideByZeroException)
+                        else
                         {
                             MessageBox.Show("Se ha producido un error al tratar de dividir entre 0", "Error del Sistema", MessageBoxButtons.OK, MessageBoxIcon.Error);
                             validacion = "error";
@@ -501,18 +773,61 @@
             }
             else if (botonEspecial == "Potencia")
             {
-                AlmacenDeDatosPot();
-                LimpiezaDeDatosPot();
-                CalculoResultadoPot();
+                if (validacion == "")
+                {
+                    AlmacenDeDatosPot();
+                    LimpiezaDeDatosPot();
+                    CalculoResultadoPot();
 
-                double resultpotencia;
-                resultpotencia = Math.Pow(resultado, resultadopot);
-                ImpresionResultado(resultpotencia);
+                    double resultpotencia;
+                    resultpotencia = Math.Pow(resultado, resultadopot);
+                    ImpresionResultado(resultpotencia);
+                }
+                else
+                {
+                    txtContain.Text = "Math ERROR";
+                }
+            }
+            else if(botonEspecial == "Raiz")
+            {
+                double resultadoraiz;
+                resultadoraiz = Math.Sqrt(resultado);
+                ImpresionResultado(resultadoraiz);
+            }
+            else if(botonEspecial == "Absoluto")
+            {
+                double resultadoabs;
+                resultadoabs = Math.Abs(resultado);
+                ImpresionResultado(resultadoabs);
+            }
+            else if(botonEspecial == "Factorial")
+            {
+                long acumulador = 1L, restando = 1;
+                string resultstring = resultado.ToString();
+                long variable;
+                if (Int64.TryParse(resultstring, out variable)){
+                    acumulador = long.Parse(resultstring);
+                    for(long k = long.Parse(resultstring); k > 0; k--)
+                    {
+                        if (restando < long.Parse(resultstring))
+                        {
+                            acumulador = acumulador * (long.Parse(resultstring) - restando);
+                            restando++;
+                        }
+                    }
+                    ImpresionResultado(acumulador);
+                }
+                else
+                {
+                    MessageBox.Show("No se puede calcular un factorial de un decimal", "Error del Sistema", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    validacion = "error";
+                    ImpresionResultado(resultado);
+                }
             }
 
 
             // Desabilitando todos los botones
-
+            Desabilitador_General();
             LimpiezaDeConjunto();
             LimpiezaDeConjuntoPot();
             
@@ -529,6 +844,8 @@
                 operacion.Add("+");
                 LimpiezaDeDatos();
                 txtContain.Text = txtContain.Text + "+";
+
+
             }
             else if (command == "Expo")
             {
@@ -544,64 +861,122 @@
                 LimpiezaDeDatosPot();
                 txtContain.Text = txtContain.Text + "⁺";
             }
+            general_hab();
         }
 
         private void btnResta_Click(object sender, EventArgs e)
         {
-            AlmacenDeDatos();
-            operacion.Add("-");
-            LimpiezaDeDatos();
-            
-
-            // Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "-";
+            // Impresion en la pantalla y calculo
+            if (command == "")
+            {
+                AlmacenDeDatos();
+                operacion.Add("-");
+                LimpiezaDeDatos();
+                txtContain.Text = txtContain.Text + "-";
+            }
+            else if (command == "Expo")
+            {
+                AlmacenDeDatos();
+                operacion.Add("-");
+                LimpiezaDeDatos();
+                txtContain.Text = txtContain.Text + "⁻";
+            }
+            else if (command == "Pot")
+            {
+                AlmacenDeDatosPot();
+                operacionpot.Add("-");
+                LimpiezaDeDatosPot();
+                txtContain.Text = txtContain.Text + "⁻";
+            }
+            general_hab();
         }
 
         private void btnMultiplicacion_Click(object sender, EventArgs e)
         {
-            AlmacenDeDatos();
-            operacion.Add("*");
-            LimpiezaDeDatos();
-            
-
-            // Impresion en la pantalla
-            txtContain.Text = txtContain.Text + "×";
+            // Impresion en la pantalla y calculo
+            if (command == "")
+            {
+                AlmacenDeDatos();
+                operacion.Add("*");
+                LimpiezaDeDatos();
+                txtContain.Text = txtContain.Text + "×";
+            }
+            else if (command == "Expo")
+            {
+                AlmacenDeDatos();
+                operacion.Add("*");
+                LimpiezaDeDatos();
+                txtContain.Text = txtContain.Text + "ˣ";
+            }
+            else if (command == "Pot")
+            {
+                AlmacenDeDatosPot();
+                operacionpot.Add("*");
+                LimpiezaDeDatosPot();
+                txtContain.Text = txtContain.Text + "ˣ";
+            }
+            general_hab();
         }
 
         private void btnDivision_Click(object sender, EventArgs e)
         {
-            AlmacenDeDatos();
-            operacion.Add("/");
-            LimpiezaDeDatos();
-            
-
-            // Impresion en pantalla
-            txtContain.Text = txtContain.Text + "÷";
+            // Impresion en la pantalla y calculo
+            if (command == "")
+            {
+                AlmacenDeDatos();
+                operacion.Add("/");
+                LimpiezaDeDatos();
+                txtContain.Text = txtContain.Text + "÷";
+            }
+            else if (command == "Expo")
+            {
+                AlmacenDeDatos();
+                operacion.Add("/");
+                LimpiezaDeDatos();
+                txtContain.Text = txtContain.Text + "ᐟ";
+            }
+            else if (command == "Pot")
+            {
+                AlmacenDeDatosPot();
+                operacionpot.Add("/");
+                LimpiezaDeDatosPot();
+                txtContain.Text = txtContain.Text + "ᐟ";
+            }
+            general_hab();
         }
-
-        // ---------------------------------------------------- Botones Especiales ---------------------------------------------------- //
 
         private void btnPorcentaje_Click(object sender, EventArgs e)
         {
             AlmacenDeDatos();
-            operacion.Add("%");                  // Reesctructurar
+            operacion.Add("%");                       // Habilitador especifico para solo ingresar un numero mas
             LimpiezaDeDatos();
-            
+            especialesbtn = "porcentaje";
+
+            general_hab();
 
             // Impresion en pantalla
             txtContain.Text = txtContain.Text + "%";
         }
 
+        // ---------------------------------------------------- Botones Especiales ---------------------------------------------------- //
+
         private void btnLog_Click(object sender, EventArgs e)
         {
+            
             botonEspecial = "LogBase10";
             txtContain.Text = "Log(";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
         }
 
         private void btnLn_Click(object sender, EventArgs e)
         {
             botonEspecial = "LogNatural";
             txtContain.Text = "Ln(";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
         }
 
         private void btnExp_Click(object sender, EventArgs e)
@@ -609,44 +984,431 @@
             botonEspecial = "Expo";
             command = "Expo";
             txtContain.Text = "e^⁽";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
         }
 
         private void btnSin_Click(object sender, EventArgs e)
         {
             botonEspecial = "Seno";
             txtContain.Text = "Sin(";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
         }
 
         private void btnCos_Click(object sender, EventArgs e)
         {
             botonEspecial = "Coseno";
             txtContain.Text = "Cos(";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
         }
 
         private void btnTan_Click(object sender, EventArgs e)
         {
             botonEspecial = "Tangente";
             txtContain.Text = "Tan(";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
         }
 
         private void btnCuadrado_Click(object sender, EventArgs e)
         {
             botonEspecial = "Cuadrado";
-            txtContain.Text = txtContain.Text + ")^²";
+            txtContain.Text = "(" + txtContain.Text + ")^²";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
         }
 
         private void btnCubico_Click(object sender, EventArgs e)
         {
             botonEspecial = "Cubo";
-            txtContain.Text = txtContain.Text + ")^³";
+            txtContain.Text = "(" + txtContain.Text + ")^³";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
         }
 
         private void btnPotencia_Click(object sender, EventArgs e)
         {
             
             botonEspecial = "Potencia";
-            txtContain.Text = txtContain.Text + ")^";
+            txtContain.Text = "(" + txtContain.Text + ")^";
             command = "Pot";
+
+            especialesbtn = "no-repeat";
+            if (pi_touch == "")
+            {
+                Op_Desabilitador();
+            }
+            else
+            {
+                Op_Desabilitador();
+                btnPi.Enabled = true;
+                btnUno.Enabled = true;
+                btnDos.Enabled = true;
+                btnTres.Enabled = true;
+                btnCuatro.Enabled = true;
+                btnCinco.Enabled = true;
+                btnSeis.Enabled = true;
+                btnSiete.Enabled = true;
+                btnOcho.Enabled = true;
+                btnNueve.Enabled = true;
+                btnCero.Enabled = true;
+
+            }
         }
+
+        private void btnRaiz_Click(object sender, EventArgs e)
+        {
+            botonEspecial = "Raiz";
+            txtContain.Text = "√(";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
+        }
+
+        private void btnAbsoluto_Click(object sender, EventArgs e)
+        {
+            botonEspecial = "Absoluto";
+            txtContain.Text = "Abs(";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
+        }
+
+        private void btnFactorial_Click(object sender, EventArgs e)
+        {
+            botonEspecial = "Factorial";
+            txtContain.Text = "(" + txtContain.Text + ")!";
+
+            especialesbtn = "no-repeat";
+            Op_Desabilitador();
+        }
+
+        // ------------------------------------------ Control de Enabled Buttons ----------------------------------------------------- //
+
+        public void Op_Desabilitador()  // No permite repetir doble boton especial
+        {
+            btnPorcentaje.Enabled = false;
+            btnLog.Enabled = false;
+            btnLn.Enabled = false;
+            btnExp.Enabled = false;
+            btnSin.Enabled = false;
+            btnCos.Enabled = false;
+            btnTan.Enabled = false;
+            btnCuadrado.Enabled = false;
+            btnCubico.Enabled = false;
+            btnPotencia.Enabled = false;
+            btnRaiz.Enabled = false;
+            btnAbsoluto.Enabled = false;
+            btnFactorial.Enabled = false;
+        }
+        public void Basic_Habilitador()   // Habilita operadores y botones especiales que requieren numero inicial
+        {
+            btnPunto.Enabled = true;
+            btnSuma.Enabled = true;
+            btnResta.Enabled = true;
+            btnDivision.Enabled = true;
+            btnMultiplicacion.Enabled = true;
+            btnPorcentaje.Enabled = true;
+            btnResultado.Enabled = true;
+            btnPi.Enabled = false;
+
+            btnCuadrado.Enabled = true;
+            btnCubico.Enabled = true;
+            btnPotencia.Enabled = true;
+            btnFactorial.Enabled = true;
+        }
+        public void No_Repeat_Habilitador() // Habilita operadores pero no botones especiales porque ya hay uno en ejecucion
+        {
+            btnPunto.Enabled = true;
+            btnSuma.Enabled = true;
+            btnResta.Enabled = true;
+            btnDivision.Enabled = true;
+            btnMultiplicacion.Enabled = true;
+            btnResultado.Enabled = true;
+            btnPi.Enabled = false;
+
+            btnCuadrado.Enabled = false;
+            btnCubico.Enabled = false;
+            btnPotencia.Enabled = false;
+            btnFactorial.Enabled = false;
+            btnLog.Enabled = false;
+            btnLn.Enabled = false;
+            btnExp.Enabled = false;
+            btnSin.Enabled = false;
+            btnCos.Enabled = false;
+            btnTan.Enabled = false;
+            btnRaiz.Enabled = false;
+            btnAbsoluto.Enabled = false;
+            btnFactorial.Enabled = false;
+        }
+        public void Pi_Habilitador()
+        {
+            btnPi.Enabled = false;
+            btnPunto.Enabled = false;
+            btnUno.Enabled = false;
+            btnDos.Enabled = false;
+            btnTres.Enabled = false;
+            btnCuatro.Enabled = false;
+            btnCinco.Enabled = false;
+            btnSeis.Enabled = false;
+            btnSiete.Enabled = false;
+            btnOcho.Enabled = false;
+            btnNueve.Enabled = false;
+            btnCero.Enabled = false;
+
+            btnSuma.Enabled = true;
+            btnResta.Enabled = true;
+            btnDivision.Enabled = true;
+            btnMultiplicacion.Enabled = true;
+            btnPorcentaje.Enabled = true;
+            btnResultado.Enabled = true;
+
+            btnCuadrado.Enabled = true;
+            btnCubico.Enabled = true;
+            btnPotencia.Enabled = true;
+            btnFactorial.Enabled = true;
+        }
+        public void No_Repeat_Pi()
+        {
+            btnPi.Enabled = false;
+            btnPunto.Enabled = false;
+            btnUno.Enabled = false;
+            btnDos.Enabled = false;
+            btnTres.Enabled = false;
+            btnCuatro.Enabled = false;
+            btnCinco.Enabled = false;
+            btnSeis.Enabled = false;
+            btnSiete.Enabled = false;
+            btnOcho.Enabled = false;
+            btnNueve.Enabled = false;
+            btnCero.Enabled = false;
+
+            btnSuma.Enabled = true;
+            btnResta.Enabled = true;
+            btnDivision.Enabled = true;
+            btnMultiplicacion.Enabled = true;
+            btnResultado.Enabled = true;
+
+            btnCuadrado.Enabled = false;
+            btnCubico.Enabled = false;
+            btnPotencia.Enabled = false;
+            btnFactorial.Enabled = false;
+            btnLog.Enabled = false;
+            btnLn.Enabled = false;
+            btnExp.Enabled = false;
+            btnSin.Enabled = false;
+            btnCos.Enabled = false;
+            btnTan.Enabled = false;
+            btnRaiz.Enabled = false;
+            btnAbsoluto.Enabled = false;
+            btnFactorial.Enabled = false;
+
+
+        }
+        public void Punto_Habilitador()
+        {
+            btnPi.Enabled = false;
+            btnPunto.Enabled = false;
+            btnResultado.Enabled = false;
+            btnPorcentaje.Enabled = false;
+            btnMultiplicacion.Enabled = false;
+            btnSuma.Enabled = false;
+            btnResta.Enabled = false;
+            btnDivision.Enabled = false;
+
+            btnCuadrado.Enabled = false;
+            btnCubico.Enabled = false;
+            btnPotencia.Enabled = false;
+            btnFactorial.Enabled = false;
+            btnLog.Enabled = false;
+            btnLn.Enabled = false;
+            btnExp.Enabled = false;
+            btnSin.Enabled = false;
+            btnCos.Enabled = false;
+            btnTan.Enabled = false;
+            btnRaiz.Enabled = false;
+            btnAbsoluto.Enabled = false;
+
+
+        }
+
+        public void Punto_No_Repeat()
+        {
+            btnPi.Enabled = false;
+            btnPunto.Enabled = false;
+            btnResultado.Enabled = false;
+            btnPorcentaje.Enabled = false;
+        }
+
+        public void Reset_Calculadora()
+        {
+            btnPi.Enabled = true;
+            btnUno.Enabled = true;
+            btnDos.Enabled = true;
+            btnTres.Enabled = true;
+            btnCuatro.Enabled = true;
+            btnCinco.Enabled = true;
+            btnSeis.Enabled = true;
+            btnSiete.Enabled = true;
+            btnOcho.Enabled = true;
+            btnNueve.Enabled = true;
+            btnCero.Enabled = true;
+
+            btnPunto.Enabled = false;
+
+            btnMultiplicacion.Enabled = false;
+            btnSuma.Enabled = false;
+            btnResta.Enabled = false;
+            btnDivision.Enabled = false;
+            btnPorcentaje.Enabled = false;
+            btnResultado.Enabled = false;
+
+            btnLog.Enabled = true;
+            btnLn.Enabled = true;
+            btnExp.Enabled = true;
+            btnSin.Enabled = true;
+            btnCos.Enabled = true;
+            btnTan.Enabled = true;
+            btnRaiz.Enabled = true;
+            btnAbsoluto.Enabled = true;
+
+            btnCuadrado.Enabled = false;
+            btnCubico.Enabled = false;
+            btnPotencia.Enabled = false;
+            btnFactorial.Enabled = false;
+
+        }
+        public void general_hab()
+        {
+            btnUno.Enabled = true;
+            btnDos.Enabled = true;
+            btnTres.Enabled = true;
+            btnCuatro.Enabled = true;
+            btnCinco.Enabled = true;
+            btnSeis.Enabled = true;
+            btnSiete.Enabled = true;
+            btnOcho.Enabled = true;
+            btnNueve.Enabled = true;
+            btnCero.Enabled = true;
+            btnPi.Enabled = true;
+
+            btnPunto.Enabled = false;
+            btnMultiplicacion.Enabled = false;
+            btnDivision.Enabled = false;
+            btnSuma.Enabled = false;
+            btnResta.Enabled = false;
+            btnPorcentaje.Enabled = false;
+            btnResultado.Enabled = false;
+
+            btnCuadrado.Enabled = false;
+            btnCubico.Enabled = false;
+            btnPotencia.Enabled = false;
+            btnFactorial.Enabled = false;
+            btnLog.Enabled = false;
+            btnLn.Enabled = false;
+            btnExp.Enabled = false;
+            btnSin.Enabled = false;
+            btnCos.Enabled = false;
+            btnTan.Enabled = false;
+            btnRaiz.Enabled = false;
+            btnAbsoluto.Enabled = false;
+        }
+        public void Porcentaje_Hab()
+        {
+            btnUno.Enabled = true;
+            btnDos.Enabled = true;
+            btnTres.Enabled = true;
+            btnCuatro.Enabled = true;
+            btnCinco.Enabled = true;
+            btnSeis.Enabled = true;
+            btnSiete.Enabled = true;
+            btnOcho.Enabled = true;
+            btnNueve.Enabled = true;
+            btnCero.Enabled = true;
+            btnPi.Enabled = false;
+            btnPunto.Enabled = true;
+
+            btnResultado.Enabled = true;
+
+            btnMultiplicacion.Enabled = false;
+            btnDivision.Enabled = false;
+            btnSuma.Enabled = false;
+            btnResta.Enabled = false;
+            btnPorcentaje.Enabled = false;
+
+            btnCuadrado.Enabled = false;
+            btnCubico.Enabled = false;
+            btnPotencia.Enabled = false;
+            btnFactorial.Enabled = false;
+            btnLog.Enabled = false;
+            btnLn.Enabled = false;
+            btnExp.Enabled = false;
+            btnSin.Enabled = false;
+            btnCos.Enabled = false;
+            btnTan.Enabled = false;
+            btnRaiz.Enabled = false;
+            btnAbsoluto.Enabled = false;
+            btnFactorial.Enabled = false;
+        }
+
+        public void Porcentaje_Pi()
+        {
+            btnPi.Enabled = false;
+            btnPunto.Enabled = false;
+            btnUno.Enabled = false;
+            btnDos.Enabled = false;
+            btnTres.Enabled = false;
+            btnCuatro.Enabled = false;
+            btnCinco.Enabled = false;
+            btnSeis.Enabled = false;
+            btnSiete.Enabled = false;
+            btnOcho.Enabled = false;
+            btnNueve.Enabled = false;
+            btnCero.Enabled = false;
+            btnResultado.Enabled = true; 
+        }
+        private void Desabilitador_General()
+        {
+            btnPi.Enabled = false;
+            btnPunto.Enabled = false;
+            btnUno.Enabled = false;
+            btnDos.Enabled = false;
+            btnTres.Enabled = false;
+            btnCuatro.Enabled = false;
+            btnCinco.Enabled = false;
+            btnSeis.Enabled = false;
+            btnSiete.Enabled = false;
+            btnOcho.Enabled = false;
+            btnNueve.Enabled = false;
+            btnCero.Enabled = false;
+            btnResultado.Enabled = false;
+            btnMultiplicacion.Enabled = false;
+            btnDivision.Enabled = false;
+            btnSuma.Enabled = false;
+            btnResta.Enabled = false;
+            btnPorcentaje.Enabled = false;
+            btnCuadrado.Enabled = false;
+            btnCubico.Enabled = false;
+            btnPotencia.Enabled = false;
+            btnFactorial.Enabled = false;
+            btnLog.Enabled = false;
+            btnLn.Enabled = false;
+            btnExp.Enabled = false;
+            btnSin.Enabled = false;
+            btnCos.Enabled = false;
+            btnTan.Enabled = false;
+            btnRaiz.Enabled = false;
+            btnAbsoluto.Enabled = false;
+            btnFactorial.Enabled = false;
+        }
+        
     }
 }

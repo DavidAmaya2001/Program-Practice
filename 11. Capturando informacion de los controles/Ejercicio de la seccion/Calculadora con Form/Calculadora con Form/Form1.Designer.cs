@@ -416,6 +416,7 @@
             // btnCuadrado
             // 
             this.btnCuadrado.BackColor = System.Drawing.Color.White;
+            this.btnCuadrado.Enabled = false;
             this.btnCuadrado.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCuadrado.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnCuadrado.Location = new System.Drawing.Point(463, 338);
@@ -429,6 +430,7 @@
             // btnCubico
             // 
             this.btnCubico.BackColor = System.Drawing.Color.White;
+            this.btnCubico.Enabled = false;
             this.btnCubico.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCubico.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnCubico.Location = new System.Drawing.Point(533, 338);
@@ -442,6 +444,7 @@
             // btnPotencia
             // 
             this.btnPotencia.BackColor = System.Drawing.Color.White;
+            this.btnPotencia.Enabled = false;
             this.btnPotencia.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPotencia.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnPotencia.Location = new System.Drawing.Point(605, 338);
@@ -463,11 +466,11 @@
             this.btnRaiz.TabIndex = 30;
             this.btnRaiz.Text = "√";
             this.btnRaiz.UseVisualStyleBackColor = false;
+            this.btnRaiz.Click += new System.EventHandler(this.btnRaiz_Click);
             // 
             // btnAbsoluto
             // 
             this.btnAbsoluto.BackColor = System.Drawing.Color.White;
-            this.btnAbsoluto.Enabled = false;
             this.btnAbsoluto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAbsoluto.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnAbsoluto.Location = new System.Drawing.Point(533, 411);
@@ -476,6 +479,7 @@
             this.btnAbsoluto.TabIndex = 31;
             this.btnAbsoluto.Text = "Abs";
             this.btnAbsoluto.UseVisualStyleBackColor = false;
+            this.btnAbsoluto.Click += new System.EventHandler(this.btnAbsoluto_Click);
             // 
             // btnFactorial
             // 
@@ -489,6 +493,7 @@
             this.btnFactorial.TabIndex = 32;
             this.btnFactorial.Text = "x!";
             this.btnFactorial.UseVisualStyleBackColor = false;
+            this.btnFactorial.Click += new System.EventHandler(this.btnFactorial_Click);
             // 
             // label1
             // 
