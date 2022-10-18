@@ -1,0 +1,11 @@
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\bin\Debug\FolderBrowserDialog Controlador.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\bin\Debug\FolderBrowserDialog Controlador.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\bin\Debug\FolderBrowserDialog Controlador.pdb
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\obj\Debug\FolderBrowserDialog Controlador.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\obj\Debug\FolderBrowserDialog Controlador.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\obj\Debug\FolderBrowserDialog_Controlador.Form1.resources
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\obj\Debug\FolderBrowserDialog_Controlador.Properties.Resources.resources
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\obj\Debug\FolderBrowserDialog Controlador.csproj.GenerateResource.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\obj\Debug\FolderBrowserDialog Controlador.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\obj\Debug\FolderBrowserDialog Controlador.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\FolderBrowserDialog Controlador\FolderBrowserDialog Controlador\obj\Debug\FolderBrowserDialog Controlador.pdb

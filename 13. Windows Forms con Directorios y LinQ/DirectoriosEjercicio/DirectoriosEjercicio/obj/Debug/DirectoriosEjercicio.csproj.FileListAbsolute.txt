@@ -1,0 +1,11 @@
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\bin\Debug\DirectoriosEjercicio.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\bin\Debug\DirectoriosEjercicio.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\bin\Debug\DirectoriosEjercicio.pdb
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\obj\Debug\DirectoriosEjercicio.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\obj\Debug\DirectoriosEjercicio.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\obj\Debug\DirectoriosEjercicio.Form1.resources
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\obj\Debug\DirectoriosEjercicio.Properties.Resources.resources
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\obj\Debug\DirectoriosEjercicio.csproj.GenerateResource.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\obj\Debug\DirectoriosEjercicio.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\obj\Debug\DirectoriosEjercicio.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\DirectoriosEjercicio\DirectoriosEjercicio\obj\Debug\DirectoriosEjercicio.pdb
