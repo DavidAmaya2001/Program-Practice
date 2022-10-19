@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ fuente Array\bin\Debug\LinQ fuente Array.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ fuente Array\bin\Debug\LinQ fuente Array.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ fuente Array\bin\Debug\LinQ fuente Array.pdb
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ fuente Array\obj\Debug\LinQ fuente Array.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ fuente Array\obj\Debug\LinQ fuente Array.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ fuente Array\obj\Debug\LinQ fuente Array.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ fuente Array\obj\Debug\LinQ fuente Array.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ fuente Array\obj\Debug\LinQ fuente Array.pdb

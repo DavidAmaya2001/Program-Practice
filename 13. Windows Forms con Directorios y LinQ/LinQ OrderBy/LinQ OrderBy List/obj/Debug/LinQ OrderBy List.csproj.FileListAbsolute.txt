@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ OrderBy\LinQ OrderBy List\bin\Debug\LinQ OrderBy List.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ OrderBy\LinQ OrderBy List\bin\Debug\LinQ OrderBy List.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ OrderBy\LinQ OrderBy List\bin\Debug\LinQ OrderBy List.pdb
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ OrderBy\LinQ OrderBy List\obj\Debug\LinQ OrderBy List.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ OrderBy\LinQ OrderBy List\obj\Debug\LinQ OrderBy List.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ OrderBy\LinQ OrderBy List\obj\Debug\LinQ OrderBy List.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ OrderBy\LinQ OrderBy List\obj\Debug\LinQ OrderBy List.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ OrderBy\LinQ OrderBy List\obj\Debug\LinQ OrderBy List.pdb

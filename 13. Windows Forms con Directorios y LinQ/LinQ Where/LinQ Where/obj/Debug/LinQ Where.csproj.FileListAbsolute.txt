@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ Where\bin\Debug\LinQ Where.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ Where\bin\Debug\LinQ Where.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ Where\bin\Debug\LinQ Where.pdb
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ Where\obj\Debug\LinQ Where.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ Where\obj\Debug\LinQ Where.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ Where\obj\Debug\LinQ Where.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ Where\obj\Debug\LinQ Where.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\LinQ Where\LinQ Where\obj\Debug\LinQ Where.pdb

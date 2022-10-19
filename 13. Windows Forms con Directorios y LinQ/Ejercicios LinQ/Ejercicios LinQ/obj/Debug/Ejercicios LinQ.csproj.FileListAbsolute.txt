@@ -1,0 +1,8 @@
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\Ejercicios LinQ\Ejercicios LinQ\bin\Debug\Ejercicios LinQ.exe.config
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\Ejercicios LinQ\Ejercicios LinQ\bin\Debug\Ejercicios LinQ.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\Ejercicios LinQ\Ejercicios LinQ\bin\Debug\Ejercicios LinQ.pdb
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\Ejercicios LinQ\Ejercicios LinQ\obj\Debug\Ejercicios LinQ.csproj.AssemblyReference.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\Ejercicios LinQ\Ejercicios LinQ\obj\Debug\Ejercicios LinQ.csproj.SuggestedBindingRedirects.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\Ejercicios LinQ\Ejercicios LinQ\obj\Debug\Ejercicios LinQ.csproj.CoreCompileInputs.cache
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\Ejercicios LinQ\Ejercicios LinQ\obj\Debug\Ejercicios LinQ.exe
+D:\Users\Documentos\GitHub\Program-Practice\13. Windows Forms con Directorios y LinQ\Ejercicios LinQ\Ejercicios LinQ\obj\Debug\Ejercicios LinQ.pdb
