@@ -34,5 +34,29 @@ namespace ConexionSQL
             frmCliente ofrmCliente = new frmCliente();
             ofrmCliente.ShowDialog();
         }
+
+        private void tipoUsuarioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmTipoUsuario ofrmTipoUsuario = new frmTipoUsuario();
+            ofrmTipoUsuario.ShowDialog();
+        }
+
+        private void busToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmBus ofrmBus = new frmBus();
+            ofrmBus.ShowDialog();
+        }
+
+        private void viajeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmViaje ofrmViaje = new frmViaje();
+            ofrmViaje.ShowDialog();
+        }
+
+        private void lugarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Lugar ofrmLugar = new Lugar();
+            ofrmLugar.ShowDialog();
+        }
     }
 }

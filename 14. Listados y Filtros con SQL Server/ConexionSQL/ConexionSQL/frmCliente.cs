@@ -36,5 +36,26 @@ namespace ConexionSQL
 
             dgvCliente.DataSource = consulta;
         }
+
+        private void filtrado(object sender, EventArgs e)
+        {
+            string nomCompleto = txtNomCompleto.Text;
+
+            BDPasajeEntities db = new BDPasajeEntities();
+            var consulta = (from cliente in db.Cliente
+                            join sexo in db.Sexo
+                            on cliente.IIDSEXO equals sexo.IIDSEXO
+                            where cliente.BHABILITADO == 1
+                            && (cliente.NOMBRE + " " + cliente.APPATERNO + " " + cliente.APMATERNO).Contains(nomCompleto)
+                            select new
+                            {
+                                cliente.IIDCLIENTE,
+                                NOMBRECOMPLETO = cliente.NOMBRE + " " + cliente.APPATERNO + " " + cliente.APMATERNO,
+                                cliente.EMAIL,
+                                sexo.NOMBRE,
+                            }).ToList();
+
+            dgvCliente.DataSource = consulta;
+        }
     }
 }

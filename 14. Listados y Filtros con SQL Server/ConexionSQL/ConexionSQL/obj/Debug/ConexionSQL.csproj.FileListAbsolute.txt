@@ -17,3 +17,7 @@ D:\Users\Documentos\GitHub\Program-Practice\14. Listados y Filtros con SQL Serve
 D:\Users\Documentos\GitHub\Program-Practice\14. Listados y Filtros con SQL Server\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.frmEmpleado.resources
 D:\Users\Documentos\GitHub\Program-Practice\14. Listados y Filtros con SQL Server\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.frmCliente.resources
 D:\Users\Documentos\GitHub\Program-Practice\14. Listados y Filtros con SQL Server\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.frmPrincipal.resources
+D:\Users\Documentos\GitHub\Program-Practice\14. Listados y Filtros con SQL Server\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.frmTipoUsuario.resources
+D:\Users\Documentos\GitHub\Program-Practice\14. Listados y Filtros con SQL Server\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.frmBus.resources
+D:\Users\Documentos\GitHub\Program-Practice\14. Listados y Filtros con SQL Server\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.frmViaje.resources
+D:\Users\Documentos\GitHub\Program-Practice\14. Listados y Filtros con SQL Server\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.Lugar.resources

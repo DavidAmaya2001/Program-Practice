@@ -30,10 +30,14 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.mantenimientosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.consultasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.itemMarca = new System.Windows.Forms.ToolStripMenuItem();
             this.itemEmpleado = new System.Windows.Forms.ToolStripMenuItem();
             this.itemCliente = new System.Windows.Forms.ToolStripMenuItem();
+            this.tipoUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.busToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.viajeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.consultasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.lugarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,16 +57,14 @@
             this.mantenimientosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.itemMarca,
             this.itemEmpleado,
-            this.itemCliente});
+            this.itemCliente,
+            this.tipoUsuarioToolStripMenuItem,
+            this.busToolStripMenuItem,
+            this.viajeToolStripMenuItem,
+            this.lugarToolStripMenuItem});
             this.mantenimientosToolStripMenuItem.Name = "mantenimientosToolStripMenuItem";
             this.mantenimientosToolStripMenuItem.Size = new System.Drawing.Size(106, 20);
             this.mantenimientosToolStripMenuItem.Text = "Mantenimientos";
-            // 
-            // consultasToolStripMenuItem
-            // 
-            this.consultasToolStripMenuItem.Name = "consultasToolStripMenuItem";
-            this.consultasToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
-            this.consultasToolStripMenuItem.Text = "Consultas";
             // 
             // itemMarca
             // 
@@ -85,6 +87,40 @@
             this.itemCliente.Text = "Cliente";
             this.itemCliente.Click += new System.EventHandler(this.itemCliente_Click);
             // 
+            // tipoUsuarioToolStripMenuItem
+            // 
+            this.tipoUsuarioToolStripMenuItem.Name = "tipoUsuarioToolStripMenuItem";
+            this.tipoUsuarioToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tipoUsuarioToolStripMenuItem.Text = "Tipo Usuario";
+            this.tipoUsuarioToolStripMenuItem.Click += new System.EventHandler(this.tipoUsuarioToolStripMenuItem_Click);
+            // 
+            // busToolStripMenuItem
+            // 
+            this.busToolStripMenuItem.Name = "busToolStripMenuItem";
+            this.busToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.busToolStripMenuItem.Text = "Bus";
+            this.busToolStripMenuItem.Click += new System.EventHandler(this.busToolStripMenuItem_Click);
+            // 
+            // viajeToolStripMenuItem
+            // 
+            this.viajeToolStripMenuItem.Name = "viajeToolStripMenuItem";
+            this.viajeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.viajeToolStripMenuItem.Text = "Viaje";
+            this.viajeToolStripMenuItem.Click += new System.EventHandler(this.viajeToolStripMenuItem_Click);
+            // 
+            // consultasToolStripMenuItem
+            // 
+            this.consultasToolStripMenuItem.Name = "consultasToolStripMenuItem";
+            this.consultasToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
+            this.consultasToolStripMenuItem.Text = "Consultas";
+            // 
+            // lugarToolStripMenuItem
+            // 
+            this.lugarToolStripMenuItem.Name = "lugarToolStripMenuItem";
+            this.lugarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.lugarToolStripMenuItem.Text = "Lugar";
+            this.lugarToolStripMenuItem.Click += new System.EventHandler(this.lugarToolStripMenuItem_Click);
+            // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -92,8 +128,10 @@
             this.ClientSize = new System.Drawing.Size(826, 551);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "frmPrincipal";
-            this.Text = "frmPrincipal";
+            this.Text = "Pantalla Principal";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -110,5 +148,9 @@
         private System.Windows.Forms.ToolStripMenuItem itemEmpleado;
         private System.Windows.Forms.ToolStripMenuItem itemCliente;
         private System.Windows.Forms.ToolStripMenuItem consultasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem tipoUsuarioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem busToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem viajeToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem lugarToolStripMenuItem;
     }
 }

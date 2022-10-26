@@ -55,6 +55,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmBus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBus.Designer.cs">
+      <DependentUpon>frmBus.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMarca.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,24 @@
     </Compile>
     <Compile Include="frmPrincipal.Designer.cs">
       <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTipoUsuario.Designer.cs">
+      <DependentUpon>frmTipoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViaje.Designer.cs">
+      <DependentUpon>frmViaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lugar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lugar.Designer.cs">
+      <DependentUpon>Lugar.cs</DependentUpon>
     </Compile>
     <Compile Include="Models\Asiento.cs">
       <DependentUpon>BDPasaje.tt</DependentUpon>
@@ -159,6 +183,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBus.resx">
+      <DependentUpon>frmBus.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMarca.resx">
       <DependentUpon>frmMarca.cs</DependentUpon>
     </EmbeddedResource>
@@ -170,6 +197,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmPrincipal.resx">
       <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTipoUsuario.resx">
+      <DependentUpon>frmTipoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViaje.resx">
+      <DependentUpon>frmViaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lugar.resx">
+      <DependentUpon>Lugar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
